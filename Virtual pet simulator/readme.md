@@ -11,13 +11,13 @@ Welcome to the Virtual Pet Simulator! This project is a simple Java Swing applic
 
 ## Screenshots
 
-<img src="file:///C:/Users/sindh/IdeaProjects/Virtual%20pet%20simulator/screenshots/initial_screen.png" alt="Initial Screen" width="400"/>
+<img src="screenshots/initial_screen.png" alt="Initial Screen" width="400"/>
 <p><em>Initial screen when you start the application.</em></p>
 
-<img src="file:///C:/Users/sindh/IdeaProjects/Virtual%20pet%20simulator/screenshots/pet_fed.png" alt="Pet Fed" width="400"/>
+<img src="screenshots/pet_fed.png" alt="Pet Fed" width="400"/>
 <p><em>Screen after feeding the pet.</em></p>
 
-<img src="file:///C:/Users/sindh/IdeaProjects/Virtual%20pet%20simulator/screenshots/pet_played.png" alt="Pet Played" width="400"/>
+<img src="screenshots/pet_played.png" alt="Pet Played" width="400"/>
 <p><em>Screen after playing with the pet.</em></p>
 
 ## Getting Started
