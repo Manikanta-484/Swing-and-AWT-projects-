@@ -31,7 +31,7 @@ Welcome to the Virtual Pet Simulator! This project is a simple Java Swing applic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VirtualPetSimulator.git
+   git clone https://github.com/Manikanta-484/VirtualPetSimulator.git
 ## Running the Application
 
 **Open the project in IntelliJ IDEA:**
